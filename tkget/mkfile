@@ -1,0 +1,4 @@
+# mkfile for program
+
+tkget: main.c
+	clang -o tkget main.c
